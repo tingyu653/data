@@ -9,7 +9,8 @@ The EEG analyses include linear (eg: power spectrum, coherence, functional conne
 
 Here is not only further information can be gotten from EEG, but also the experiment of paradigm can let you know the whole process.
 
-
+![image](https://github.com/tingyu653/data/blob/main/Paradigm.jpg)
 
 [1]https://www.researchsquare.com/article/rs-841353/v1
+
 [2][3]https://clinicaltrials.gov/ct2/show/record/NCT02747940?view=record
