@@ -1,4 +1,4 @@
-If you are insterested our data and experiemnt
+**If you are insterested our data and experiemnt
 Youtube demonstration is here :
 https://youtu.be/dX8k1B5r6XU
 We are the newbie of BCI(Brain Computer Interface),
