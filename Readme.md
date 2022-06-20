@@ -1,8 +1,8 @@
-If you are insterested our data and experiemnt
-Youtube demonstration is here :
-https://youtu.be/dX8k1B5r6XU
-We are the newbie of BCI(Brain Computer Interface),
-Please you can aviliable to suggest us, thank you!!
+* If you are insterested our data and experiemnt
+* Youtube demonstration is here :
+* https://youtu.be/dX8k1B5r6XU
+* We are the newbie of BCI(Brain Computer Interface),
+* Please you can aviliable to suggest us, thank you!
 
 This dataset recorded chronic migraine (CM), a disabling headache disorder, patient's electroencephalogram (EEG).[1]
 
